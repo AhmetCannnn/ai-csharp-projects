@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ahmet Can\\Computer Engineering\\6. d\u00F6nem\\Yapay Zeka\\\u00F6devler\\odev5_abc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6486713E-54B1-410B-AF40-025D2627E7A2}|odev5_abc\\odev5_abc.csproj|d:\\ahmet can\\computer engineering\\6. d\u00F6nem\\yapay zeka\\\u00F6devler\\odev5_abc\\odev5_abc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6486713E-54B1-410B-AF40-025D2627E7A2}|odev5_abc\\odev5_abc.csproj|solutionrelative:odev5_abc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Ahmet Can\\Computer Engineering\\6. d\u00F6nem\\Yapay Zeka\\\u00F6devler\\odev5_abc\\odev5_abc\\Form1.cs",
+              "RelativeDocumentMoniker": "odev5_abc\\Form1.cs",
+              "ToolTip": "D:\\Ahmet Can\\Computer Engineering\\6. d\u00F6nem\\Yapay Zeka\\\u00F6devler\\odev5_abc\\odev5_abc\\Form1.cs [Design]",
+              "RelativeToolTip": "odev5_abc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:54:20.09Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

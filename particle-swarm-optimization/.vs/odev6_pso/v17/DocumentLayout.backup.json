@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ahmet Can\\Computer Engineering\\6. d\u00F6nem\\Yapay Zeka\\\u00F6devler\\odev6_pso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23DBB67C-4C90-4A58-971E-FC7A3967F6FF}|odev6_pso\\odev6_pso.csproj|d:\\ahmet can\\computer engineering\\6. d\u00F6nem\\yapay zeka\\\u00F6devler\\odev6_pso\\odev6_pso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23DBB67C-4C90-4A58-971E-FC7A3967F6FF}|odev6_pso\\odev6_pso.csproj|solutionrelative:odev6_pso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Ahmet Can\\Computer Engineering\\6. d\u00F6nem\\Yapay Zeka\\\u00F6devler\\odev6_pso\\odev6_pso\\Form1.cs",
+              "RelativeDocumentMoniker": "odev6_pso\\Form1.cs",
+              "ToolTip": "D:\\Ahmet Can\\Computer Engineering\\6. d\u00F6nem\\Yapay Zeka\\\u00F6devler\\odev6_pso\\odev6_pso\\Form1.cs [Design]",
+              "RelativeToolTip": "odev6_pso\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:20:24.51Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
